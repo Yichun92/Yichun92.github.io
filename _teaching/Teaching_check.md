@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Econometrics II"
 type: "PhD Core"
 venue: "OSU"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Spring 2020/Spring 2021/Spring 2022
 
-Heading 1
-======
+#Heading 1
+#======
