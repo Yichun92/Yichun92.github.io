@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Download the cv at 
-======
+Download the CV at . 
+CV in Chinese. 
 
 Education
 ======
@@ -28,11 +28,12 @@ Working Papers
 Work in Progress
 ======
 
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Recitation Leader, Econometrics II (PhD Core), Spring 2020/Spring 2021/Spring 2022
+* Recitation Leader, Principle of Microeconomics, Fall 2019/Fall 2021
+* Recitation Leader, Math Camp (PhD level), Summer 2019
 
 Awards
 ======
@@ -41,6 +42,13 @@ Awards
 * Department Fellowship, OSU, 2017-2018
 * Outstanding student in GPED, Vanderbilt University, 2016
 
+Presentations
+======
+* AMES Asian Meeting, China, 2022
+* Micro Lunch, OSU, Spring 2021/2022
+* IO Workshop, OSU, Spring 2019/2022
+
 Skills
 ======
-
+* Matlab, Stata, Python, C, SQL, LaTex, R. 
+* Chinese (native), English (fluent).
