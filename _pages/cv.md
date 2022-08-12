@@ -60,12 +60,12 @@ References
 ======
 * Professor Adam Dearing (co-chair), Strategy and Business Economics, SC Johnson Graduate School of Management, Cornell University.
 
-Email: aed237@cornell.edu. Phone: (989)714-2542. 
+  Email: aed237@cornell.edu. Phone: (989)714-2542. 
 
 * Professor Matthew Weinberg (co-chair), Department of Economics, The Ohio State University. 
 
-Email: weinberg.133@osu.edu. Phone: (706)201-1603.
+  Email: weinberg.133@osu.edu. Phone: (706)201-1603.
 
 * Professor Jason Blevins, Department of Economics, The Ohio State University. 
 
-Email: blevins.141@osu.edu. Phone: (614)292-5588. 
+  Email: blevins.141@osu.edu. Phone: (614)292-5588. 
