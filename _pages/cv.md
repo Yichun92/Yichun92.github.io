@@ -59,7 +59,6 @@ Skills
 References
 ======
 * Professor <a href="https://www.johnson.cornell.edu/faculty-research/faculty/aed237/">Adam Dearing</a> (co-chair), Strategy and Business Economics, SC Johnson Graduate School of Management, Cornell University.
-  
   Email: aed237@cornell.edu. Phone: (989)714-2542. 
 
 * Professor <a href="https://sites.google.com/site/matthewcweinberg/matthew-weinbergs-website">Matthew Weinberg</a> (co-chair), Department of Economics, The Ohio State University. 
