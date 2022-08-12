@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/  
-
+    url: /publications/
+  
   - title: "Teaching"
     url: /teaching/    
     
@@ -15,5 +15,3 @@ main:
   - title: "Guide"
     url: /markdown/
     
-  - title: "Publication"
-    url: /publications/
