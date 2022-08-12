@@ -38,7 +38,7 @@ Awards
 ======
 * Department Citation for Excellent Teaching, OSU, 2022
 * Tom Kniesner and Debbie Freund Award, OSU, 2020 
-* Department Fellowship, OSU, 2017-2018 \\
+* Department Fellowship, OSU, 2017-2018
 * Outstanding student in GPED, Vanderbilt University, 2016
 
 Skills
