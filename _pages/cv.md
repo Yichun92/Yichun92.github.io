@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Download the CV at . 
+
 CV in Chinese. 
 
 Education
@@ -21,10 +22,9 @@ Education
 
 Working Papers
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Bargaining, Merger and Endogenous Network Formation: the Case of Power Plants and Coal Companies in the US. <b>Job Market Paper</b>
+
+
 Work in Progress
 ======
 
