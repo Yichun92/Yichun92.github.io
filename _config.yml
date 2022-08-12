@@ -71,8 +71,8 @@ author:
   bio              : "PhD Candidate in Economics at OSU"
   location         : "Location"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  #pubmed           : ""
+  #googlescholar    : ""
   email            : "song.1399@osu.edu"
   researchgate     : 
   uri              :
@@ -82,7 +82,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
