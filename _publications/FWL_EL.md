@@ -1,6 +1,6 @@
 ---
 title: "A Frisch-Waugh-Lovell Theorem for Empirical Likelihood."
-excerpt: 'With Adam Dearing.'
+excerpt: 'Joint with Adam Dearing. Submitted to Journal '
 ---
 Joint with Adam Dearing. 
 Abstract:   We present a Frisch-Waugh-Lovell-type (FWL) theorem for empirical likelihood estimation with instrumental variables. Our theorem is similar to the standard FWL theorem for partitioning-out exogenous regressors (including dummy variables), but the partitioning-out procedure uses the empirical likelihood weights at the solution instead of the original empirical distribution. We show how to leverage this result to simplify computation via an iterative estimation algorithm, where exogenous variables are partitioned out using weighted least squares, and these weights are updated between iterations. Furthermore, we show that iterations converge locally to the full empirical likelihood estimate at a stochastically super-linear rate. We also provide a feasible iterative constrained optimization algorithm for calculating empirical-likelihood-based confidence intervals and discuss its properties. Monte Carlo simulations on both point estimation and confidence intervals demonstrate that our iterative algorithms are robust and generate results within numerical tolerance of the full empirical likelihood estimator in the finite sample, while offering substantial savings on computation time as the number of exogenous regressors grows.
