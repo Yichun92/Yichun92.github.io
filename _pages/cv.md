@@ -22,12 +22,15 @@ Education
 
 Working Papers
 ======
-Bargaining, Merger and Endogenous Network Formation: the Case of Power Plants and Coal Companies in the US. <b>Job Market Paper</b>
-
+* Bargaining, Merger and Endogenous Network Formation: the Case of Power Plants and Coal Companies in the US. <b>Job Market Paper. </b>
+* A Frisch-Waugh-Lovell Theorem for Empirical Likelihood, with Adam Dearing, submitted to Journal of Econometrics. 
+* A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity, with Adam Dearing.
+* An Alternating Maximizations Approach to Approximate Dynamic Programming, with Adam Dearing. 
+* Non-semiparametric Demand Estimation without the Exact or Lp Sparsity. 
 
 Work in Progress
 ======
-
+* 
 
 Teaching
 ======
@@ -52,3 +55,12 @@ Skills
 ======
 * Matlab, Stata, Python, C, SQL, LaTex, R. 
 * Chinese (native), English (fluent).
+
+References
+======
+* Professor Adam Dearing (co-chair), Strategy and Business Economics, SC Johnson Graduate School of Management, Cornell University.
+Email: aed237@cornell.edu. Phone: (989)714-2542. 
+* Professor Matthew Weinberg (co-chair), Department of Economics, The Ohio State University. 
+Email: weinberg.133@osu.edu. Phone: (706)201-1603.
+* Professor Jason Blevins, Department of Economics, The Ohio State University. 
+Email: blevins.141@osu.edu. Phone: (614)292-5588. 
