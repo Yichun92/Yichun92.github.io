@@ -1,6 +1,6 @@
 ---
 title: "A Frisch-Waugh-Lovell Theorem for Empirical Likelihood."
-excerpt: 'Joint with <a href="https://www.johnson.cornell.edu/faculty-research/faculty/aed237/">Adam Dearing</a>. Submitted to Journal of Econometrics. '
+excerpt: 'Joint with <a href="https://www.johnson.cornell.edu/faculty-research/faculty/aed237/">Adam Dearing</a>. '
 ---
 Joint with <a href="https://www.johnson.cornell.edu/faculty-research/faculty/aed237/">Adam Dearing</a>. 
 
