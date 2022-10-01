@@ -53,6 +53,6 @@ Work in Progress
 * <b> [8] Non-semiparametric Demand Estimation without the Exact or Lp Sparsity. </b> 
   
   
-* <b> [9] Spatial Autoregressive Model with Copulas in Dynamic Panels, </b> with [Yanli Lin](http://academicpages.github.io/files/paper1.pdf) and Yang Yang.
+* <b> [9] Spatial Autoregressive Model with Copulas in Dynamic Panels, </b> with [Yanli Lin](http://academicpages.github.io/files/paper1.pdf) and [Yang Yang](https://maximyang.wixsite.com/mysite).
 
   
