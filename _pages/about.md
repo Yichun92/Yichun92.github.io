@@ -16,4 +16,9 @@ Born in Xi'an, China, I got my Bachelors' degree from University of Internationa
 
 Click here for my CV and here for my JMP. 
 
-I am currently on the 2022-2023 Job Market and available for interviews at the ASSA 2023 Annual meeting.
+I am currently on the 2022-2023 Job Market.
+
+<br />
+<br />
+<img src="https://github.com/Yichun92/Yichun92.github.io/blob/master/images/profile2.png?raw=true" alt="     " width="393" height="280">
+
