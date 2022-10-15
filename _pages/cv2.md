@@ -27,12 +27,12 @@ Working Papers
     
   [Online Supplement Materials](https://yichun92.github.io/files/Copulas_LinSong_supplement.pdf)
   
-* <b> [5] A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity, </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/). 
+* <b> [5] [A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity](), </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/). 
   
   <i> Abstract: </i> Based on the fast development in machine learning techniques, we propose a semi-parametric two-stage estimator to solve the endogeneity in models when implementing the usual linear-IV is impossible. Those models include binary discrete-choice with endogenous regressors and multinomial Logit model with zero market share. Our first stage is a flexible estimation of the expected outcomes, conditional on the regressors and instruments, whereas the second stage is a simple linear-IV regression with first-stage results inserted. After adding an analytical-calculated correction term, the first-stage error up to $o(N^{-1/4})$ does not affect the asymptotic distribution of the second-stage structural parameter estimates, allowing for a variety of non-parametric methods in the first stage. We demonstrate the behavior of our estimator through a pile of simulations. Moreover, we demonstrate the performance by a simple application using the publicly-available 2011 to 2015 transaction-level data between coal mining companies and coal-fired power plants in the US. 
     
   
-* <b> [6] QML Estimation of a Spatial Autoregressive Model with Endogenous Heterogeneity, </b> with [Yanli Lin](https://www.yanlilinecon.com/) and [Yang Yang](https://maximyang.wixsite.com/mysite). 
+* <b> [6] [QML Estimation of a Spatial Autoregressive Model with Endogenous Heterogeneity](), </b> with [Yanli Lin](https://www.yanlilinecon.com/) and [Yang Yang](https://maximyang.wixsite.com/mysite). 
 
   <i> Abstract: </i> This paper develops a spatial autoregressive (SAR) model with endogenous heterogeneity. The scalar spatial coefficient is allowed to be a bounded function of a spatial unit's own endogenous characteristics. Of particular interest is a structural interaction model with nonlinear and endogenous spillover effects. We propose a quasi-maximum likelihood estimation (QMLE) with a control function approach for this model, and investigate the asymptotic properties of the estimator which is verified to have good performance in finite sample Monte Carlo simulations. We apply our model to an empirical study of regional economic performance in about 1,400 subnational regions from 110 different countries and detect that the spillovers of regional productivity are heterogeneous and depend on an endogenous variable - years of education.
 
