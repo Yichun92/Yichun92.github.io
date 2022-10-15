@@ -25,7 +25,7 @@ Working Papers
   
   <i> Abstract: </i> We provide a new copula method to tackle possible endogeneity issues in a spatial autoregressive (SAR) model, which might originate from an endogenous spatial weight matrix, endogenous heterogeneity specification, or endogenous regressors. Model specifications and estimations for the three variants of a SAR model are presented. Using copula endogeneity correction technique, we propose 3-stage estimation methods and establish their consistency and asymptotic normality. Monte Carlo experiments are performed to investigate finite sample performance of the estimators. We then apply our method to an empirical study of spatial spillovers in regional productivity with endogenous spatial weights constructed by the proximity of a meaningful socioeconomic characteristic - years of education. 
     
-  [Online Supplement Materials](yichun92.github.io/files/Copulas_LinSong_supplement.pdf)
+  [Online Supplement Materials](https://yichun92.github.io/files/Copulas_LinSong_supplement.pdf)
   
 * <b> [5] A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity, </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/). 
   
