@@ -27,8 +27,8 @@ Working Papers
     
   [Online Supplement Materials](https://yichun92.github.io/files/Copulas_LinSong_supplement.pdf)
   
-* <b> [5] [A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity](), </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/). 
-  
+* <b> [5] [A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity](https://yichun92.github.io/files/MLFirstStage.pdf), </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/). 
+    
   <i> Abstract: </i> Based on the fast development in machine learning techniques, we propose a semi-parametric two-stage estimator to solve the endogeneity in models when implementing the usual linear-IV is impossible. Those models include binary discrete-choice with endogenous regressors and multinomial Logit model with zero market share. Our first stage is a flexible estimation of the expected outcomes, conditional on the regressors and instruments, whereas the second stage is a simple linear-IV regression with first-stage results inserted. After adding an analytical-calculated correction term, the first-stage error up to $o(N^{-1/4})$ does not affect the asymptotic distribution of the second-stage structural parameter estimates, allowing for a variety of non-parametric methods in the first stage. We demonstrate the behavior of our estimator through a pile of simulations. Moreover, we demonstrate the performance by a simple application using the publicly-available 2011 to 2015 transaction-level data between coal mining companies and coal-fired power plants in the US. 
     
   
