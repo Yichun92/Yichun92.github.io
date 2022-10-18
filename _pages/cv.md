@@ -9,34 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Download the CV at . 
+Download the CV [here](https://yichun92.github.io/files/My_CV_English.pdf). 
 
-CV in Chinese. 
+CV in Chinese [here](https://yichun92.github.io/files/My_CV_Chinese.pdf). 
 
 Education
 ======
 * The Ohio State University, 2017 - expected 2023, PhD in Economics 
 * The Ohio State University, 2017 - 2018, MA in Economics
-* Vanderbilt University, 2014 - 2016, MA in Economics
+* Vanderbilt University, 2014 - 2016, MA in Economic
 * University of International Business and Economics, Beijing, China, 2010 - 2014, BA in Finance, minor in Information System and Management. 
 
 Working Papers
 ======
-* Bargaining, Merger and Endogenous Network Formation: the Case of Power Plants and Coal Companies in the US. <b>Job Market Paper. </b>
-* A Frisch-Waugh-Lovell Theorem for Empirical Likelihood, with Adam Dearing, submitted to Journal of Econometrics. 
-* A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity, with Adam Dearing.
-* An Alternating Maximizations Approach to Approximate Dynamic Programming, with Adam Dearing. 
-* Non-semiparametric Demand Estimation without the Exact or Lp Sparsity. 
+* [1] Bargaining, Merger and Endogenous Network Formation: the Case of Power Plants and Coal Companies in the US. <b>(Job Market Paper) </b>
+* [2] An Alternating Maximizations Approach to Approximate Dynamic Programming, with Adam Dearing.
+* [3] A Frisch-Waugh-Lovell Theorem for Empirical Likelihood, with Adam Dearing. 
+* [4] Addressing Endogeneity Issues in a SAR Model using Copulas, with Yanli Lin. 
+* [5] A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity, with Adam Dearing. 
+* [6] QML Estimation of a Spatial Autoregressive Model with Endogenous Heterogeneity, with Yanli Lin and Yang Yang. 
+* [7]
 
 Work in Progress
 ======
-* 
+* [8] Non-semiparametric Demand Approximation without the Exact or Lp Sparsity.
+* [9] Spatial Autoregressive Model with Copulas in Dynamic Panels, with Yanli Lin and Yang Yang. 
 
 Teaching
 ======
 * Recitation Leader, Econometrics II (PhD Core), Spring 2020/Spring 2021/Spring 2022
 * Recitation Leader, Principle of Microeconomics, Fall 2019/Fall 2021
 * Recitation Leader, Math Camp (PhD level), Summer 2019
+* Grader/Teaching Assistant, Fall 2018/Spring 2019/Fall 2020/Fall 2022
 
 Awards
 ======
