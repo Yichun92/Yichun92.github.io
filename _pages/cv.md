@@ -27,8 +27,11 @@ Working Papers
 * [3] A Frisch-Waugh-Lovell Theorem for Empirical Likelihood, with Adam Dearing. 
 * [4] Addressing Endogeneity Issues in a SAR Model using Copulas, with Yanli Lin. 
 * [5] A Semi-Parametric Two-Stage Estimator with Machine Learning to Solve Endogeneity, with Adam Dearing. 
-* [6] QML Estimation of a Spatial Autoregressive Model with Endogenous Heterogeneity, with Yanli Lin and Yang Yang. 
-* [7]
+* [6] QML Estimation of a Spatial Autoregressive Model with Endogenous Heterogeneity, with Yanli Lin and Yang Yang.
+
+Computational Notes
+======
+* [7] Counterfactual Calculation in Multiple Discrete Continuous Choice with Multiple Budget Constraints.
 
 Work in Progress
 ======
