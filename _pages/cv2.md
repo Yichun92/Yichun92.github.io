@@ -39,7 +39,7 @@ Computational Notes
 ======
 * <b> [7] Counterfactual Calculation in Multiple Discrete Continuous Choice with Multiple Budget Constraints. </b> 
 
-  <i> <b> Abstract: I extended the efficient greedy algorithm provided by \textcite{PinjariBhat2011} for single constraint to an iterative one, which can accommodate more than one budget constraints in the multiple discrete continuous choice model. This can be used to accommodate the case where there is an extra binding purchase obligation from the currently-hold long-run contract. Monte Carlo simulation has demonstrated that, for a problem with extra binding minimum purchase, which seems prohibitively large to solve by traversing all the possible choice sets, the elapsed time for this iterative method is less than 0.2s. </b> </i>
+  <i> <b> Abstract: </b> </i> I extended the efficient greedy algorithm provided by \textcite{PinjariBhat2011} for single constraint to an iterative one, which can accommodate more than one budget constraints in the multiple discrete continuous choice model. This can be used to accommodate the case where there is an extra binding purchase obligation from the currently-hold long-run contract. Monte Carlo simulation has demonstrated that, for a problem with extra binding minimum purchase, which seems prohibitively large to solve by traversing all the possible choice sets, the elapsed time for this iterative method is less than 0.2s. 
 
 Work in Progress
 ======
