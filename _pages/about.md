@@ -16,7 +16,7 @@ My advisors are [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/
 
 Born in Xi'an, China, I got my Bachelors' degree on finance from University of International Business and Economics, Beijing, China. After that, I began my study in the US at Vanderbilt University for a master degree in economics development. 
 
-Click [here](https://yichun92.github.io/files/My_CV_English.pdf) for my CV and [here](https://yichun92.github.io/files/My_JMP.pdf) for my job market paper. 
+Click [here](https://yichun92.github.io/files/My_CV_English.pdf) for my CV and [here](https://yichun92.github.io/files/My_JMP.pdf) for my job market paper. And a full lists of my working papers and work in progress can be found [here](https://yichunsong.com/cv2/). 
 
 I am currently on the 2022-2023 Job Market.
 
