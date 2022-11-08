@@ -9,9 +9,21 @@ redirect_from:
 
 Working Papers
 ======
-* <b> [1] [Bargaining, Merger, Capacities, and Endogenous Network Formation: the case of power plants and coal companies in the US.](https://yichun92.github.io/files/My_JMP.pdf) </b> <b> (Job Market Paper). </b>
+* <b> [1] [Bargaining, Merger, Capacities, and Endogenous Network
+Formation: the Case of Power Plants and Coal Suppliers in the US.](https://yichun92.github.io/files/My_JMP.pdf) </b> <b> (Job Market Paper). </b>
 
-  <i> <b> Abstract: </b> </i> The outcome of a structural change, for instance, merger, entry, or exit, is a critical task in anti-trust economics. To get a more reasonable market outcome with privately-negotiated transactions, I include non-purchased goods as the threat of replacement. Buyers decide where to purchase and how much to purchase simultaneously. Built on the seminal works on endogenous network formation, I develop a complete structural model in this study, incorporating individual-level Nash bargaining, endogenous network formation, capacity constraints, and multiple continuous purchase behavior. I discuss the identification, implementation, and computational algorithms for estimation and counterfactual. Then I construct a comprehensive data set of power plants and coal companies from 1998 to 2008 to study the Arch-Triton merger in 2005. FTC initially challenged the Arch-Triton merger, and the case was closed, followed by a suspicious spot price increase afterward. I estimate the model with the data set and carry on counterfactual analysis with no merger or divestiture. It turns out that the inclusion of more primitives into the model complicates the analysis and generates ambiguous results.
+  <i> <b> Abstract: </b> </i> This paper develops a point-identified structural model to study the outcome of a structural
+change (e.g., merger, entry or exit), which is a critical task in economics. The model incorporates
+micro-level Nash bargaining, endogenous network formation, suppliers’ capacity constraints, and
+multiple continuous purchase behaviors for a market with business-to-business transactions.
+I provide a detailed discussion on model identification, implementation, and algorithms for
+estimation and counterfactual. To operationalize the model, I construct a comprehensive data
+set of power plants and coal companies from 1998 to 2008. Next, using the data, I estimate
+the model and evaluate the Arch-Triton merger in 2005, which the FTC initially challenged
+but failed to block. In contrast with a static network model without cost synergies, my model
+suggests that the equilibrium prices under a new stable network may increase in the absence of
+the merger due to capacity constraints. Moreover, divestiture remains a valid merger remedy
+since equilibrium prices would always increase otherwise.
   
 * <b> [2] [An Alternating Maximizations Approach to Approximate Dynamic Programming](https://yichun92.github.io/files/Approximate_Dynamic_write_up.pdf), </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/). 
 
