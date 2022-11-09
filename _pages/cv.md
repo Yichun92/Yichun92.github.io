@@ -47,6 +47,7 @@ Teaching
 
 Awards
 ======
+* G.S. Maddala Prize in Econometrics, OSU, 2022
 * Department Citation for Excellent Teaching, OSU, 2022
 * Tom Kniesner and Debbie Freund Award, OSU, 2020 
 * Department Fellowship, OSU, 2017-2018
@@ -65,7 +66,7 @@ Skills
 
 References
 ======
-* Assisstant Professor <a href="https://www.johnson.cornell.edu/faculty-research/faculty/aed237/">Adam Dearing</a> (co-chair), Strategy and Business Economics, SC Johnson Graduate School of Management, Cornell University.
+* Assistant Professor <a href="https://www.johnson.cornell.edu/faculty-research/faculty/aed237/">Adam Dearing</a> (co-chair), Strategy and Business Economics, SC Johnson Graduate School of Management, Cornell University.
   Email: aed237@cornell.edu. Phone: (989)714-2542. 
 
 * Associate Professor <a href="https://sites.google.com/site/matthewcweinberg/matthew-weinbergs-website">Matthew Weinberg</a> (co-chair), Department of Economics, The Ohio State University. 
