@@ -57,6 +57,6 @@ Work in Progress
 ======
 * <b> [8] Copula Joint Estimation for Spatial Dynamic Panel Data Models With Endogeneity Issues, </b> with [Yanli Lin](https://www.yanlilin.org/home).
 
-* <b> [9] A Stochastic Algorithm for Non-linear Instrumental Variable Estimation, with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/).
+* <b> [9] A Stochastic Algorithm for Non-linear Instrumental Variable Estimation, </b> with [Adam Dearing](https://www.johnson.cornell.edu/faculty-research/faculty/aed237/).
     
 * <b> [10] Solve Nested Logit without Predetermined Nests using Market Level Data with Endogeneity.
