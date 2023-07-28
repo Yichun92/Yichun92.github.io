@@ -18,8 +18,6 @@ Born in Xi'an, China, I got my Bachelors' degree on finance from University of I
 
 Click [here](https://yichun92.github.io/files/My_CV_English.pdf) for my CV and [here](https://yichun92.github.io/files/My_JMP.pdf) for my job market paper. And a full lists of my working papers and work in progress can be found [here](https://yichunsong.com/cv2/). 
 
-I am going to join Dongbei University of Finance and Economics in Fall 2023. 
-
 <br />
 <br />
 <img src="https://github.com/Yichun92/Yichun92.github.io/blob/master/images/profile2.png?raw=true" alt="     " width="393" height="280">
